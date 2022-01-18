@@ -1,4 +1,7 @@
-![Logo](https://i.ibb.co/Hrh4p3x/logo-white.png "Logo")
+<p align="center">
+  <img src=https://i.ibb.co/Hrh4p3x/logo-white.png>
+</p>
+  
 #### <p align="center"> An open, easy and cool SteamAPI Web App. 
 ------------
 
